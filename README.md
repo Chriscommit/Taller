@@ -1,5 +1,4 @@
 # Taller
-E-boutique de montres
 
 Projet de fin de formation :
 
